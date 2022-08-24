@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(39, 151, 39);
+}
+
+#topo {
+    background-color: rgb(34, 122, 34);
+    border-radius: 4px;
+    border: solid 1px white;
+}
+
+.social {
+    text-align: right;
+    margin-top: -12%;
+}
+
+.patido {
+    text-align: left;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+#card {
+    border: solid white 1px;
+    margin: 0 auto;
+    width: 70%;
+    text-align: center;
+    border-radius: 4px;
+}
+
+#card:hover {
+    width: 75%;
+    background-color: rgb(34, 122, 34);
+}
+
+p {
+    color: white;
+    font-size: larger;
+}
+
+h2, h3 {
+    color: white;
+    text-align: center;
+}
+
+#cit {
+    font-size: small;
+}
+
+#cit:hover {
+    font-size: large;
+}
+
+.nome {
+    text-align: right;
+}
